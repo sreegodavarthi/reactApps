@@ -1,2 +1,2 @@
 # reactApps
-React projects!
+Applications built using ReactJS
